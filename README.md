@@ -1,2 +1,2 @@
-# github-actions
+# actions
 ## this is sample text from.
