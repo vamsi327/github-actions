@@ -1,4 +1,4 @@
-# actions of github
+# actions of 
 ## this is sample text from.
 
-making few more changgges
+making few more changes
